@@ -1,7 +1,7 @@
 # Capstone Project - Starbucks 
 
 
-<img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiohsiUtpzkAhVKZ1AKHWUEASkQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.papercitymag.com%2Frestaurants%2Fstarbucks-delivery-hits-texas-dallas-houston-uber-eats%2F&psig=AOvVaw1XoNsoB9hiCN5Qcge8KLED&ust=1566767515083461" > 
+
 
 
 ## Project Overview : 
