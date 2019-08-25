@@ -65,5 +65,9 @@ and in the portfolio data I seperated chennels wat to market the types of offer 
  
 
     
+   ###### references :
+   - https://github.com/anchorP34/Starbucks-Customer-Clusters/blob/master/Starbucks%20Capstone%20Project%20(1).ipynb
+   - https://github.com/ft9738962/Starbucks_Capstone/blob/master/Starbucks_Capstone_notebook.ipynb
+   - https://github.com/alioh/DSND-Capstone/blob/master/Starbucks_Capstone_notebook.ipynb
    
    
