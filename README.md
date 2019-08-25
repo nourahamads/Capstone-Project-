@@ -61,7 +61,7 @@ and in the portfolio data I seperated chennels wat to market the types of offer 
   
   
 ## Conclusion :
-  
+  finally m according the resutls of the analysis , the best way to send the promotions is through the mobile there is alot of the users join the mobile app , and according the cutomers data the good promotions is BoGO is the best promotion for the customer .
  
 
     
