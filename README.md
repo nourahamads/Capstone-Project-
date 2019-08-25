@@ -1,7 +1,7 @@
 # Capstone Project - Starbucks 
 
 
-
+   <img  src= "https://github.com/nourahamads/Capstone-Project-/blob/master/starbucks.jpg "  > 
 
 
 ## Project Overview : 
