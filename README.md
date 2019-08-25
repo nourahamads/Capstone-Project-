@@ -57,7 +57,7 @@ and in the portfolio data I seperated chennels wat to market the types of offer 
 
 ## Data Analysis . 
  I  Analysis the data  by python 3 . 
-  [ the project ]()
+  [ the project ](https://github.com/nourahamads/Capstone-Project-/blob/master/Starbucks_Capstone_notebook.ipynb)
   
   
 ## Conclusion :
