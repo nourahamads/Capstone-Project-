@@ -16,7 +16,9 @@
     - How  the income and the average according the gender ? 
     - The age and try to cluster the age to know  more about costomer ? 
     - Analysis and write the results ? 
-    - timeline for the users and  time to be the users  in Starbucks App ? 
+    - Timeline for the users and  time to be the users  in Starbucks App ?
+    - try to detect the best promotion according the customer Data . 
+    
     
     
     
