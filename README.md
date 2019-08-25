@@ -12,10 +12,9 @@
    ####  the Goals : 
   
     - How many transcript fro each type of transcript ? 
-    - How many Femals and male and the averge of them ? 
+    - How many Femals and male  ? 
     - How  the income and the average according the gender ? 
     - The age and try to cluster the age to know  more about costomer ? 
-    - Analysis and write the results ? 
     - Timeline for the users and  time to be the users  in Starbucks App ?
     - try to detect the best promotion according the customer Data . 
     
